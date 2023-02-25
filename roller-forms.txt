@@ -1,0 +1,96 @@
+[BookmarkAdd.jsp at line 26, column 1]  <s:form action="bookmarkAdd!save">
+[BookmarkEdit.jsp at line 26, column 1]  <s:form action="bookmarkEdit!save">
+[Bookmarks.jsp at line 78, column 1]  <s:form action="bookmarks!delete">
+[BookmarksImport.jsp at line 30, column 1]  <s:form action="bookmarksImport!save" method="POST" enctype="multipart/form-data">
+
+[CacheInfo.jsp at line 39, column 21]                      <s:form action="cacheInfo!clear">
+
+[Categories.jsp at line 70, column 1]  <s:form action="categories!move">
+[CategoryAdd.jsp at line 28, column 1]  <s:form action="categoryAdd!save">
+[CategoryEdit.jsp at line 28, column 1]  <s:form action="categoryEdit!save">
+[CategoryRemove.jsp at line 25, column 1]  <s:form action="categoryRemove!remove">
+
+[Comments.jsp at line 62, column 5]      <s:form action="comments!update">
+[CommentsSidebar.jsp at line 31, column 2]   <s:form action="comments!query" id="commentsQuery">
+
+[CommonPingTargetAdd.jsp at line 24, column 1]  <s:form action="commonPingTargetAdd!save" >
+[CommonPingTargetConfirm.jsp at line 35, column 5]      <s:form action="commonPingTargets!delete">
+[CommonPingTargetConfirm.jsp at line 40, column 5]      <s:form action="commonPingTargets">
+[CommonPingTargetEdit.jsp at line 24, column 1]  <s:form action="commonPingTargetEdit!save" >
+
+[CreateDatabase.jsp at line 56, column 5]      <s:form action="install!create">
+[CreateUser.jsp at line 22, column 1]  <s:form action="createUser!save">
+[CreateWeblog.jsp at line 42, column 1]  <s:form action="createWeblog!save">
+
+[CustomPingTargetAdd.jsp at line 26, column 1]  <s:form action="customPingTargetAdd!save" >
+[CustomPingTargetConfirm.jsp at line 35, column 5]      <s:form action="customPingTargets!delete">
+[CustomPingTargetConfirm.jsp at line 41, column 5]      <s:form action="customPingTargets">
+[CustomPingTargetEdit.jsp at line 26, column 1]  <s:form action="customPingTargetEdit!save" >
+
+[EntriesSidebar.jsp at line 31, column 17]                  <s:form action="entries">
+
+[EntryAdd.jsp at line 44, column 1]  <s:form id="entry" action="entryAdd!save" onsubmit="editorCleanup()">
+[EntryEdit.jsp at line 53, column 1]  <s:form id="entry" action="entryEdit!save" onsubmit="editorCleanup()">
+[EntryRemove.jsp at line 33, column 5]      <s:form action="entryRemove!remove">
+[EntryRemove.jsp at line 40, column 5]      <s:form action="entryEdit">
+
+[FolderAdd.jsp at line 26, column 1]  <s:form action="folderAdd!save">
+[FolderEdit.jsp at line 26, column 1]  <s:form action="folderEdit!save">
+
+[GlobalCommentManagement.jsp at line 92, column 1]  <s:form action="globalCommentManagement!update">
+[GlobalCommentManagementSidebar.jsp at line 31, column 2]   <s:form action="globalCommentManagement!query" id="comments">
+
+[GlobalConfig.jsp at line 23, column 1]  <s:form action="globalConfig!save">
+
+[Maintenance.jsp at line 22, column 1]  <s:form action="maintenance">
+
+[MediaFileAdd.jsp at line 70, column 1]  <s:form id="entry" action="mediaFileAdd!save" method="POST" enctype="multipart/form-data">
+[MediaFileAddExternalInclude.jsp at line 31, column 1]  <s:form id="entry" action=" " onsubmit="editorCleanup()" method="POST">
+[MediaFileAddSuccess.jsp at line 71, column 1]  <s:form id="entry" action="entryAddWithMediaFile">
+[MediaFileEdit.jsp at line 77, column 1]  <s:form id="entry" action="mediaFileEdit!save" method="POST" enctype="multipart/form-data">
+[MediaFileImageChooser.jsp at line 99, column 1]  <s:form id="mediaFileChooserForm" name="mediaFileChooserForm" action="mediaFileView">
+[MediaFileSidebar.jsp at line 64, column 17]                  <s:form id="mediaFileSearchForm" name="mediaFileSearchForm"
+[MediaFileView.jsp at line 183, column 1]  <s:form id="createPostForm" action='entryAddWithMediaFile'>
+[MediaFileView.jsp at line 288, column 3]    <s:form id="mediaFileViewForm" name="mediaFileViewForm" action="mediaFileView">
+
+[Members.jsp at line 44, column 1]  <s:form action="members!save">
+[MembersInvite.jsp at line 29, column 1]  <s:form action="invite!save">
+
+[ModifyUser.jsp at line 26, column 1]  <s:form action="modifyUser!save">
+
+[PlanetConfig.jsp at line 25, column 1]  <s:form action="planetConfig!save">
+[PlanetGroups.jsp at line 31, column 1]  <s:form action="planetGroups!save">
+[PlanetSubscriptions.jsp at line 43, column 1]  <s:form action="planetSubscriptions!save">
+
+[Profile.jsp at line 22, column 1]  <s:form action="profile!save">
+
+[Referrers.jsp at line 30, column 1]  <s:form action="referrers!remove">
+[Referrers.jsp at line 65, column 1]  <s:form action="referrers!reset">
+
+[Register.jsp at line 22, column 1]  <s:form action="register!save" >
+
+[Setup.jsp at line 67, column 13]              <s:form action="setup!save">
+
+[StylesheetEdit.jsp at line 27, column 1]  <s:form action="stylesheetEdit!save">
+
+[TemplateEdit.jsp at line 34, column 1]  <s:form action="templateEdit!save" id="template">
+[TemplateRemove.jsp at line 39, column 13]              <s:form action="templateRemove!remove">
+[TemplatesSidebar.jsp at line 28, column 17]                  <s:form action="templates!add">
+
+[ThemeEdit.jsp at line 61, column 1]  <s:form action="themeEdit!save">
+[ThemeEditSharedThemesOnly.jsp at line 39, column 1]  <s:form action="themeEdit!save">
+
+[UpgradeDatabase.jsp at line 41, column 5]      <s:form action="install!upgrade">
+
+[UserAdmin.jsp at line 29, column 1]  <s:form action="modifyUser" method="GET">
+
+[WeblogConfig.jsp at line 26, column 1]  <s:form action="weblogConfig!save">
+[WeblogConfig.jsp at line 267, column 1]  <s:form action="weblogRemove">
+
+[WeblogExport.jsp at line 32, column 1]  <s:form name="entriesExport" action="weblogExport!exportEntries" method="POST">
+[WeblogExport.jsp at line 53, column 1]  <s:form name="resourcesExport" action="weblogExport!exportResources" method="POST">
+
+[WeblogRemoveConfirm.jsp at line 44, column 13]              <s:form action="weblogRemove!remove">
+[WeblogRemoveConfirm.jsp at line 50, column 13]              <s:form action="weblogConfig" method="post">
+
+
